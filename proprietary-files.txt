@@ -7,12 +7,6 @@ etc/Hdmi_cal.acdb
 etc/Headset_cal.acdb
 etc/Speaker_cal.acdb
 
-# RIL
-bin/rild
-lib/libril.so
-lib/librilutils.so
-lib/libsec-ril.so
-
 # Sensors
 lib/hw/sensors.msm8916.so
 vendor/lib/libcalmodule_gyroscope.so
