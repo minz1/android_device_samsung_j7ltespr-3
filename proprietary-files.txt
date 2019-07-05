@@ -15,6 +15,7 @@ lib/libsec-ril.so|c0babdc078afccadbbbaa4d5777a21c0
 
 # Sensors
 lib/hw/sensors.msm8916.so
+vendor/lib/libcalmodule_gyroscope.so
 
 # Qualcomm framework
 vendor/lib/libdiag.so
